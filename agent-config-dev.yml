@@ -1,2 +1,4 @@
 info:
- agent: default
+  profile: dev
+  from: git
+  agent: agentinfo
